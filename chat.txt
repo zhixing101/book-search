@@ -1,0 +1,28 @@
+
+2015/11/20(Fri)
+zhixing101
+  doc
+  book-search
+  book-read
+  book-use
+  book-pay
+  book-manage
+  
+2015/11/23(Mon)
+
+reference open source
+
+Oleksandr Perepelytsya
+https://github.com/grygoriy/booksniffer
+
+ Nick ingalls nick@mapbox.com http://mapbox.com
+https://github.com/ingalls/Automated-Librarian
+
+Srujan Jha srujanjha.jha@gmail.com http://www.srujanjha.me
+https://github.com/srujanjha/BookMyBook-Android
+
+Vimuth Fernando vimuth@gmail.com
+https://github.com/vimuth/book-search-app
+
+
+https://github.com/zhangyihao/BookSearch
